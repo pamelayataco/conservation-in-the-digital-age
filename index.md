@@ -1,4 +1,4 @@
-## Trial #1
+## Trial 1
 
 Edit here: https://github.com/pamelayataco/conservation-in-the-digital-age/edit/gh-pages/index.md
 
