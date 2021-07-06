@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Trial #1
 
-You can use the [editor on GitHub](https://github.com/pamelayataco/conservation-in-the-digital-age/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Edit here: https://github.com/pamelayataco/conservation-in-the-digital-age/edit/gh-pages/index.md
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About us
+Our mission is to provide tangible example of novel conervation practices used around the world in various environments and geographical locations. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
